@@ -1,0 +1,11 @@
+int main() {
+    int x,y,z,a;
+    float h;int c;float w,k,p;
+
+
+    x = y/c;
+    w = x+a;
+
+    p = w+k;
+
+}
